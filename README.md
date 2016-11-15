@@ -1,4 +1,4 @@
 # hello-world
-My first repository
+My repository
 
 Some text.
